@@ -1,0 +1,30 @@
+# Ignore .obj and .ply Mesh files
+*.obj
+*.ply
+test.py
+demo_nicp_batch.py
+BFM/BFM09_model_info.mat
+
+#### joe made this: http://goel.io/joe
+
+#####=== Python ===#####
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Distribution / packaging
+.Python
+*.mp4
+.idea
+results
+test_data
+*.mat
+data
+build
+*.so
+rp_dennis_posed_004_OBJ
+*.obj
+*.fkb
